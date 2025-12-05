@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/somer-100png/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/main/assets/logo.png" width="120" alt="Vencord Repo Logo">
+  <img src="https://raw.githubusercontent.com/somer-100png/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/main/assets/logo.png" width="420" alt="Vencord Repo Logo">
 </p>
 
 <h1 align="center">Vencord Tools & Plugins Pack</h1>
